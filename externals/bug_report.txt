@@ -1,0 +1,8 @@
+----- 05/20/20 05:07:12 -----
+Traceback (most recent call last):
+  File "C:/Users/saym/Documents/GitHub/SimpleChess_GamePYTHON/chess game simple/gui.py", line 167, in play_as
+    print_board(game.board, color)
+AttributeError: 'list' object has no attribute 'board'
+
+Playing as BLACK:
+	

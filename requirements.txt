@@ -1,0 +1,3 @@
+stockfish
+python-chess
+pygame~=1.9.6
